@@ -1,0 +1,39 @@
+1 Conceito do Sistema: 
+
+A ReservaViagens consiste em um sistema web que tem o objetivo de gerenciar e mostrar casas, pousadas e praias que estão em aluguel.
+
+2 Nome e Logotipo:
+
+ReservaViagens - 
+
+
+
+
+
+3 Objetivo do sistema:
+
+3.1: Oferece uma interação para o usuario reservar um determinado espaço com imagens detalhadas com informações tais como, preço, localização e nota avaliativa do lugar.
+
+3.2:  Tem a possibilidade de cadastro com informaçoes do cliente, com notificações e um espaço para aluguel da sua casa ou hotel. 
+
+3.3: Permite a separação de filtros de pesquisa e ordem de pesquisa e exibição com barra de pesquisa.
+
+4: wireframes:
+
+
+5:Paleta de cores:
+
+Preto, branco e laranja claro
+
+Preto: Representa força, proteção, elegância, riqueza, mistério, poder, profundidade e seriedade.
+
+Branco: Branco: tranquilidade, clareza e limpeza.
+
+Laranja Claro: alegria, prosperidade, vitalidade e sucesso.
+
+6: Arte Conceitural e Final: 
+
+https://wireframepro.mockflow.com/editor.jsp?editor=on&publicid=M3eb9ddfd3baffb151818950c4532dae31700925219374&perm=Create&projectid=MCLDzI0XTpb&spaceid=&ptitle=Projeto%20Wireframe%20SENAI&bgcolor=white&category=web&pcompany=C8132b51154034854b29c5a2960d34deb&space=default#/page/40502e484d2541c69edd2e301088cfc4
+
+
+
